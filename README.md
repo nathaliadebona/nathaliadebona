@@ -14,8 +14,8 @@ Check out my portfolio at [nathaliadebona.github.io/portfolio](https://nathaliad
 
 - **[Bossa & Static](https://nathaliadebona.github.io/bossa-e-static/)** — a multi-page e-commerce site for a fictional vinyl record store, built to practice JavaScript fundamentals (DOM manipulation, cart logic, filtering, modals)
 - **[Glow Republic](https://nathaliadebona.github.io/glow-republic/)** — a fictional vegan skincare brand site, my most technically complete project so far, with animations, interactive cards, numeric counters, a blog page and a newsletter section
-- **[Nexon](https://nathaliadebona.github.io/projetos-pessoais/nexon/index)** — a fictional tech/automation company site with a bold dark-themed design, bilingual (PT/EN) with language switching built in JavaScript
-- **[Lumière Atelier de Aromas](https://nathaliadebona.github.io/projetos-pessoais/lumiere-atelie/index)** — a fictional candle and soap brand site with an editorial aesthetic, photo carousel and multi-page structure
+- **[Nexon](https://nathaliadebona.github.io/nexon/)** — a fictional tech/automation company site with a bold dark-themed design, bilingual (PT/EN) with language switching built in JavaScript
+- **[Lumière Atelier de Aromas](https://nathaliadebona.github.io/lumiere/)** — a fictional candle and soap brand site with an editorial aesthetic, photo carousel and multi-page structure
 
 ## 🛠️ Skills
 
