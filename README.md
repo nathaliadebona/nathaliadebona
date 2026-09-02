@@ -8,10 +8,10 @@ Check out my portfolio at [nathaliadebona.github.io/portfolio](https://nathaliad
 
 ## 📌 Projects
 
-- **[Focus & Flow](https://github.com/nathaliadebona/focus-flow)** — a personal productivity PWA with a dashboard, notes (checklists, tags, attachments, search/filter, trash), a calendar (multiple events per day, attachments, trash), dark mode, and offline support. My most feature-complete project so far, built entirely with vanilla JavaScript
+- **[Kairo](https://nathaliadebona.github.io/kairo/)** — a time tracking, client, task, and finance management app built entirely with vanilla JavaScript, unifying tools like Clockify, Notion, and a spreadsheet into one place. Features a many-to-many client/project relationship, full CRUD with soft delete across multiple entities, a Kanban board, inline editing, mobile-first responsive design, and dark mode. My most complex project to date
+- **[Focus & Flow](https://nathaliadebona.github.io/focus-flow/)** — a personal productivity PWA with a dashboard, notes (checklists, tags, attachments, search/filter, trash), a calendar (multiple events per day, attachments, trash), dark mode, and offline support
 - **[Bossa & Static](https://nathaliadebona.github.io/bossa-e-static/)** — a multi-page e-commerce site for a fictional vinyl record store, built to practice JavaScript fundamentals (DOM manipulation, cart logic, filtering, modals)
 - **[Glow Republic](https://nathaliadebona.github.io/glow-republic/)** — a fictional vegan skincare brand site, with animations, interactive cards, numeric counters, a blog page and a newsletter section
-- **[Nexon](https://nathaliadebona.github.io/nexon/)** — a fictional tech/automation company site with a bold dark-themed design, bilingual (PT/EN) with language switching built in JavaScript
 - **[Lumière Atelier de Aromas](https://nathaliadebona.github.io/lumiere/)** — a fictional candle and soap brand site with an editorial aesthetic, photo carousel and multi-page structure
 
 ## 🛠️ Skills
@@ -26,4 +26,3 @@ Check out my portfolio at [nathaliadebona.github.io/portfolio](https://nathaliad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliadalila/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathdbona@gmail.com)
-
